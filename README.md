@@ -15,7 +15,7 @@ The idea is to persist the following info about a square:
 
 I recommend you if you have docker run the following command to have the mongodb database:
 
-"docker run -p 27017: 27017 --name demo-mongo -e MONGO_INITDB_ROOT_USERNAME = root-demo -e MONGO_INITDB_ROOT_PASSWORD = root-demo -d mongo"
+    docker run -p 27017: 27017 --name demo-mongo -e MONGO_INITDB_ROOT_USERNAME = root-demo -e MONGO_INITDB_ROOT_PASSWORD = root-demo -d mongo
 
 To have the user and base to run the backend :) .
 
@@ -28,4 +28,3 @@ The Front End app of this application is in the repository:
 [squares](https://github.com/IsmaelTerreno/squares)
 
 To run this Demo Only clone this repository an the Front End app mentioned above.
-
