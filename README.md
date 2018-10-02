@@ -32,4 +32,4 @@ To run this Demo Only clone this repository an the Front End app mentioned above
 There is a Live Demo on a server Heroku here:
 [Squares API Demo Live](https://squares-api-demo.herokuapp.com)
 
-Taka account the first time will take 20 seconds or less because is a free hosting ;).
+**Take account the first time will take 20 seconds or less because is a free hosting ;).**
